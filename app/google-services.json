@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "919150327696",
+    "firebase_url": "https://chat-box-3d84f.firebaseio.com",
+    "project_id": "chat-box-3d84f",
+    "storage_bucket": "chat-box-3d84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919150327696:android:a53fde0786b89a1d5c6515",
+        "android_client_info": {
+          "package_name": "com.vikash.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919150327696-83kmmm5uru883i0jnr2aj49bbda4ohf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikash.chatbox",
+            "certificate_hash": "ca3c71b9865572fae71790ec9071d1029cbc24e3"
+          }
+        },
+        {
+          "client_id": "919150327696-vuhdenbbi2g5l5rm4oirv3rqvm8ghf9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikash.chatbox",
+            "certificate_hash": "7fc902421edd41e3b3d770a928692f155af4b2cd"
+          }
+        },
+        {
+          "client_id": "919150327696-79774r0img3nqs6fnparhkg7b818mfik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YDEkw84W8Wk0t5XZm-ja9Eu9MqHUg_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919150327696-79774r0img3nqs6fnparhkg7b818mfik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
